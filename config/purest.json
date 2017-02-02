@@ -1,0 +1,18 @@
+{
+  "trello": {
+    "https://api.trello.com": {
+      "__domain": {
+        "auth": [
+          {"qs": {"key": "[0]"}},
+          {"qs": {"key": "[0]", "token": "[1]"}}
+        ]
+      },
+      "[version]/{endpoint}": {
+        "__path": {
+          "alias": "__default",
+          "version": "1"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+npm-debug.log
+config/db.json
+config/fixture.json
+config/index.json
+coverage/
+node_modules/
