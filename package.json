@@ -13,13 +13,13 @@
   },
   "dependencies": {
     "@request/client": "^0.1.0",
-    "purest": "^3.0.0"
+    "purest": "^3.0.1"
   },
   "devDependencies": {},
   "main": "",
   "files": [],
   "scripts": {},
   "engines": {
-    "node": ">=4.0.0"
+    "node": ">=6.0.0"
   }
 }
