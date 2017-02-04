@@ -2,5 +2,6 @@ npm-debug.log
 config/db.json
 config/fixture.json
 config/index.json
+config/trello.json
 coverage/
 node_modules/
