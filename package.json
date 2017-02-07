@@ -1,15 +1,14 @@
 {
-  "name": "incoming-webhooks",
-  "version": "0.0.0",
-  "description": "Incoming WebHooks",
-  "private": true,
+  "name": "slack-webhook-trello",
+  "version": "1.0.0",
+  "description": "Slack Incomming WebHook for Trello",
   "keywords": [],
   "license": "MIT",
-  "homepage": "https://github.com/simov/slack",
+  "homepage": "https://github.com/simov/slack-webhook-trello",
   "author": "Simeon Velichkov <simeonvelichkov@gmail.com> (http://simov.github.io)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/simov/slack.git"
+    "url": "https://github.com/simov/slack-webhook-trello.git"
   },
   "dependencies": {
     "@request/client": "^0.1.0",
@@ -17,7 +16,10 @@
     "purest": "^3.0.1"
   },
   "devDependencies": {},
-  "main": "",
+  "bin": {
+    "slack-webhook-trello": "./bin/"
+  },
+  "main": "./lib/",
   "files": [],
   "scripts": {},
   "engines": {
