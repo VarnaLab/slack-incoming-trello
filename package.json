@@ -15,13 +15,20 @@
     "minimist": "^1.2.0",
     "purest": "^3.0.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "mocha": "^3.2.0"
+  },
   "bin": {
     "slack-webhook-trello": "./bin/"
   },
   "main": "./lib/",
   "files": [],
-  "scripts": {},
+  "scripts": {
+    "test": "npm run test-ci",
+    "test-ci": "mocha test/",
+    "test-cov": "istanbul cover _mocha"
+  },
   "engines": {
     "node": ">=6.0.0"
   }

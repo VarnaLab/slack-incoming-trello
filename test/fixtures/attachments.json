@@ -1,0 +1,342 @@
+[
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/jxELohPL|. Организационен .> ➤ Идеи/Предложения за инициативи ➤ <https://trello.com/c/FmYqhX0A|борд: https://trello.com/b/hLeYGu0f/- да стане публичен. и да има активни хора за администратори>*",
+    "author_name": "Todor Dragnev",
+    "author_link": "https://trello.com/t0d0r",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/0df88620ad5b51b957be0de2b5a8e3b6/170.png",
+    "text": "https://trello.com/b/hLeYGu0f/",
+    "image_url": false,
+    "footer": "updateCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486502218.554,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  },
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/jxELohPL|. Организационен .> ➤ Идеи/Предложения за инициативи ➤ <https://trello.com/c/CAxibImD|mind map за Варналаб 2017>*",
+    "author_name": "Orlin Bobchev",
+    "author_link": "https://trello.com/orlinbobchev",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/2d10c22f148d0585ca6b4dc9823fedde/170.png",
+    "text": "Аз лично ползвам Xmind, но безплатната версия има много ограничения, някой да знае софтуер за mind map, който позволява live editing от няколко човека ?\n",
+    "image_url": false,
+    "footer": "commentCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486505194.798,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  },
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/jxELohPL|. Организационен .> ➤ в процес ➤ <https://trello.com/c/CAxibImD|mind map за Варналаб 2017>*",
+    "author_name": "Orlin Bobchev",
+    "author_link": "https://trello.com/orlinbobchev",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/2d10c22f148d0585ca6b4dc9823fedde/170.png",
+    "text": "Тествам RealTimeBoard, като алтернатива (има интеграция с трелло), ето и invitation линк към дъската\nhttps://realtimeboard.com/welcome/wXe9ZGYKIZYMbRP9ADXuPxbmk89K05yXLSwt5WdPJO04ADZKV9nFj3196eVH0MFG",
+    "image_url": false,
+    "footer": "commentCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486505572.32,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  },
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ Инфо ➤ <https://trello.com/c/WEK5D66z|\"Open source\" backup storage>*",
+    "author_name": "Todor Dragnev",
+    "author_link": "https://trello.com/t0d0r",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/0df88620ad5b51b957be0de2b5a8e3b6/170.png",
+    "text": "да се намери решение, всичките данни в базите данни да бъдат съхранявани в нещо като \"open storage\".",
+    "image_url": false,
+    "footer": "updateCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486502451.354,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  },
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ Инициативи / Идеи ➤ <https://trello.com/c/RdL3NGdh|смяна на календара с този http://bevacqua.github.io/rome/>*",
+    "author_name": "Todor Dragnev",
+    "author_link": "https://trello.com/t0d0r",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/0df88620ad5b51b957be0de2b5a8e3b6/170.png",
+    "text": "* http://bevacqua.github.io/rome/",
+    "image_url": false,
+    "footer": "updateCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486502655.646,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  },
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ Инициативи / Идеи ➤ <https://trello.com/c/ViasD4dd|Добавяне на favicon>*",
+    "author_name": "kaloyan",
+    "author_link": "https://trello.com/kyordanov",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/08c1ca7c065d983944e003a0c394d311/170.png",
+    "text": "Да се добави някакъв favicon, понеже в момента като се отвори сайтът в браузъра и мястото за favicon стои празно...",
+    "image_url": false,
+    "footer": "updateCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486503759.187,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  },
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ Инициативи / Идеи ➤ <https://trello.com/c/ViasD4dd|Добавяне на favicon>*",
+    "author_name": "kaloyan",
+    "author_link": "https://trello.com/kyordanov",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/08c1ca7c065d983944e003a0c394d311/170.png",
+    "text": "",
+    "image_url": "https://trello-attachments.s3.amazonaws.com/589a3ebaa830fb74ae800399/189x61/4f86ae5a235001d07e8a5fb9d12d020e/missing_favicon.png",
+    "footer": "addAttachmentToCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486503781.443,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  },
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ В процес на изработка ➤ <https://trello.com/c/ViasD4dd|Добавяне на favicon>*",
+    "author_name": "Todor Dragnev",
+    "author_link": "https://trello.com/t0d0r",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/0df88620ad5b51b957be0de2b5a8e3b6/170.png",
+    "text": "генерирана с http://www.favicon-generator.org/",
+    "image_url": false,
+    "footer": "commentCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486504108.297,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  },
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ <https://trello.com/c/ViasD4dd|Добавяне на favicon>*",
+    "author_name": "Todor Dragnev",
+    "author_link": "https://trello.com/t0d0r",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/0df88620ad5b51b957be0de2b5a8e3b6/170.png",
+    "text": "",
+    "image_url": false,
+    "footer": "addAttachmentToCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486504113.014,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  },
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ В процес на изработка ➤ <https://trello.com/c/ViasD4dd|Добавяне на favicon>*",
+    "author_name": "Todor Dragnev",
+    "author_link": "https://trello.com/t0d0r",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/0df88620ad5b51b957be0de2b5a8e3b6/170.png",
+    "text": "",
+    "image_url": false,
+    "footer": "addAttachmentToCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486504120.13,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  },
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ В процес на изработка ➤ <https://trello.com/c/ViasD4dd|Добавяне на favicon>*",
+    "author_name": "Todor Dragnev",
+    "author_link": "https://trello.com/t0d0r",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/0df88620ad5b51b957be0de2b5a8e3b6/170.png",
+    "text": "[varnalab-favicon.zip](https://trello-attachments.s3.amazonaws.com/511e236b9675f83524002c79/589a3ebaa830fb74ae800399/f626849c687577aca063e0608db987ea/varnalab-favicon.zip) -  пълен набор с икони + код за вграждане",
+    "image_url": false,
+    "footer": "commentCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486504147.695,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  },
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ Инфо ➤ <https://trello.com/c/4rHuyH3V|Лого + Дизайни>*",
+    "author_name": "Todor Dragnev",
+    "author_link": "https://trello.com/t0d0r",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/0df88620ad5b51b957be0de2b5a8e3b6/170.png",
+    "text": "favicons: https://trello.com/c/ViasD4dd",
+    "image_url": false,
+    "footer": "commentCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486504234.191,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  },
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ Инициативи / Идеи ➤ <https://trello.com/c/cS8JamdA|Да се оправи Google Map-a>*",
+    "author_name": "kaloyan",
+    "author_link": "https://trello.com/kyordanov",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/08c1ca7c065d983944e003a0c394d311/170.png",
+    "text": "",
+    "image_url": "https://trello-attachments.s3.amazonaws.com/589a4077ddf067fa756430cb/840x513/fe820b24ca826250a04b7ed85e27cdf7/google_maps_error.png",
+    "footer": "addAttachmentToCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486504319.247,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  },
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ Инициативи / Идеи ➤ <https://trello.com/c/aDKZ4qPr|Линкове към всички социални мрежи>*",
+    "author_name": "kaloyan",
+    "author_link": "https://trello.com/kyordanov",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/08c1ca7c065d983944e003a0c394d311/170.png",
+    "text": "Да са добавят като иконки линкове към всичките социални account-и на лаба в десния sidebar.",
+    "image_url": false,
+    "footer": "updateCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486504565.119,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  },
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ Инициативи / Идеи ➤ <https://trello.com/c/jQtfibrV|голям дебел линк към чата в сайта>*",
+    "author_name": "kaloyan",
+    "author_link": "https://trello.com/kyordanov",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/08c1ca7c065d983944e003a0c394d311/170.png",
+    "text": "@simeonvelichkov Симо, това долното можеш да го триеш, създадох отделна карта: https://trello.com/c/aDKZ4qPr",
+    "image_url": false,
+    "footer": "commentCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486504599.695,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  },
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ Инициативи / Идеи ➤ <https://trello.com/c/ViasD4dd|Добавяне на favicon>*",
+    "author_name": "Todor Dragnev",
+    "author_link": "https://trello.com/t0d0r",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/0df88620ad5b51b957be0de2b5a8e3b6/170.png",
+    "text": "връщам картата, защото не сме добавили резултата от генерираната картинка на самата страница...",
+    "image_url": false,
+    "footer": "commentCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486506805.073,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  },
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/cR1GRpfB|НПО дейности> ➤ <https://trello.com/c/G34lwZmY|Управителен съвет за НПО-то>*",
+    "author_name": "Todor Dragnev",
+    "author_link": "https://trello.com/t0d0r",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/0df88620ad5b51b957be0de2b5a8e3b6/170.png",
+    "text": ":ballot_box_with_check: свидетелство за съдимост - Петър",
+    "image_url": false,
+    "footer": "updateCheckItemStateOnCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486501883.653,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  },
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/cR1GRpfB|НПО дейности> ➤ <https://trello.com/c/G34lwZmY|Управителен съвет за НПО-то>*",
+    "author_name": "Todor Dragnev",
+    "author_link": "https://trello.com/t0d0r",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/0df88620ad5b51b957be0de2b5a8e3b6/170.png",
+    "text": ":ballot_box_with_check: свидетелство за съдимост - Борис",
+    "image_url": false,
+    "footer": "updateCheckItemStateOnCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486501883.821,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  },
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/cR1GRpfB|НПО дейности> ➤ <https://trello.com/c/G34lwZmY|Управителен съвет за НПО-то>*",
+    "author_name": "Todor Dragnev",
+    "author_link": "https://trello.com/t0d0r",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/0df88620ad5b51b957be0de2b5a8e3b6/170.png",
+    "text": ":ballot_box_with_check: свидетелство за съдимост - предаване на 3-те документа на адвоката",
+    "image_url": false,
+    "footer": "updateCheckItemStateOnCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486501884.479,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  },
+  {
+    "fallback": "Incoming WebHook Error!",
+    "color": "#0089d9",
+    "pretext": "* ➤ <https://trello.com/b/cR1GRpfB|НПО дейности> ➤ В прогрес ➤ <https://trello.com/c/85LQnG63|Регистрация на сдружението>*",
+    "author_name": "Todor Dragnev",
+    "author_link": "https://trello.com/t0d0r",
+    "author_icon": "https://trello-avatars.s3.amazonaws.com/0df88620ad5b51b957be0de2b5a8e3b6/170.png",
+    "text": "предадени 200 лв за разходи / не е ясна пълната такса - ще се върне каквото остане /",
+    "image_url": false,
+    "footer": "commentCard",
+    "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
+    "ts": 1486502053.975,
+    "mrkdwn_in": [
+      "pretext",
+      "text"
+    ]
+  }
+]

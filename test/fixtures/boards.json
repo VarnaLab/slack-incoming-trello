@@ -1,0 +1,2484 @@
+[
+  {
+    "id": "58923c2d7c42d76be76cfab5",
+    "name": ". Организационен .",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "4ed8c43f946fdf08194f5c04",
+    "invited": false,
+    "pinned": false,
+    "starred": false,
+    "url": "https://trello.com/b/jxELohPL/-",
+    "prefs": {
+      "permissionLevel": "public",
+      "voting": "members",
+      "comments": "members",
+      "invitations": "members",
+      "selfJoin": true,
+      "cardCovers": true,
+      "cardAging": "regular",
+      "calendarFeedEnabled": false,
+      "background": "sky",
+      "backgroundImage": null,
+      "backgroundImageScaled": null,
+      "backgroundTile": false,
+      "backgroundBrightness": "dark",
+      "backgroundColor": "#00AECC",
+      "canBePublic": true,
+      "canBeOrg": true,
+      "canBePrivate": true,
+      "canInvite": true
+    },
+    "invitations": [],
+    "memberships": [
+      {
+        "id": "58923c2d7c42d76be76cfab6",
+        "idMember": "4ec638a5f97e30717230ec19",
+        "memberType": "admin",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "58923c5682780ee2d663df09",
+        "idMember": "565c7db08cb4bb5167ebda92",
+        "memberType": "admin",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "58923ca010f595e6137b32a9",
+        "idMember": "5262ed00a9a7b32b060007e5",
+        "memberType": "admin",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "58923cae96eadd5f8c602e50",
+        "idMember": "4eda11ea84b4ef420d370a56",
+        "memberType": "admin",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "58923cbf51bf2e8432499bfc",
+        "idMember": "50a052831f35c25d1401d5b1",
+        "memberType": "admin",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "58923de14f3f0e1ce2427e31",
+        "idMember": "4ee8d850353faff104000755",
+        "memberType": "admin",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "58923de625152fdbdbbb22e1",
+        "idMember": "5228ea83e46e7c0b4f00074a",
+        "memberType": "admin",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "58923ef0d52e0158e6838f36",
+        "idMember": "578e03a894d8cfa29d977e3d",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "5892464a7ac0db297ea6b73e",
+        "idMember": "58480803095fba974d90f610",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "58987552f5b59e7bd455c320",
+        "idMember": "4f63497a8997dd824c994b79",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "589a393f287e99af72c254d2",
+        "idMember": "4ec62f86b475c76d722e68bc",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      }
+    ],
+    "shortLink": "jxELohPL",
+    "subscribed": false,
+    "labelNames": {
+      "green": "",
+      "yellow": "",
+      "orange": "",
+      "red": "",
+      "purple": "",
+      "blue": "",
+      "sky": "",
+      "lime": "",
+      "pink": "",
+      "black": ""
+    },
+    "powerUps": [],
+    "dateLastActivity": "2017-02-07T22:12:52.317Z",
+    "dateLastView": "2017-02-07T23:00:44.611Z",
+    "shortUrl": "https://trello.com/b/jxELohPL",
+    "idTags": [],
+    "actions": [
+      {
+        "id": "589a4664a9d631191ef2cba0",
+        "idMemberCreator": "578e03a894d8cfa29d977e3d",
+        "data": {
+          "list": {
+            "name": "в процес",
+            "id": "58923c3d312370b7251103d3"
+          },
+          "board": {
+            "shortLink": "jxELohPL",
+            "name": ". Организационен .",
+            "id": "58923c2d7c42d76be76cfab5"
+          },
+          "card": {
+            "shortLink": "CAxibImD",
+            "idShort": 5,
+            "name": "mind map за Варналаб 2017",
+            "id": "58923ead0547073ea9108d2b"
+          },
+          "text": "Тествам RealTimeBoard, като алтернатива (има интеграция с трелло), ето и invitation линк към дъската\nhttps://realtimeboard.com/welcome/wXe9ZGYKIZYMbRP9ADXuPxbmk89K05yXLSwt5WdPJO04ADZKV9nFj3196eVH0MFG"
+        },
+        "type": "commentCard",
+        "date": "2017-02-07T22:12:52.320Z",
+        "memberCreator": {
+          "id": "578e03a894d8cfa29d977e3d",
+          "avatarHash": "2d10c22f148d0585ca6b4dc9823fedde",
+          "fullName": "Orlin Bobchev",
+          "initials": "OB",
+          "username": "orlinbobchev"
+        }
+      },
+      {
+        "id": "589a455838603fb0465fc21c",
+        "idMemberCreator": "578e03a894d8cfa29d977e3d",
+        "data": {
+          "list": {
+            "name": "в процес",
+            "id": "58923c3d312370b7251103d3"
+          },
+          "board": {
+            "shortLink": "jxELohPL",
+            "name": ". Организационен .",
+            "id": "58923c2d7c42d76be76cfab5"
+          },
+          "card": {
+            "shortLink": "CAxibImD",
+            "idShort": 5,
+            "name": "mind map за Варналаб 2017",
+            "id": "58923ead0547073ea9108d2b",
+            "pos": 262143
+          },
+          "old": {
+            "pos": 131071
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T22:08:24.434Z",
+        "memberCreator": {
+          "id": "578e03a894d8cfa29d977e3d",
+          "avatarHash": "2d10c22f148d0585ca6b4dc9823fedde",
+          "fullName": "Orlin Bobchev",
+          "initials": "OB",
+          "username": "orlinbobchev"
+        }
+      },
+      {
+        "id": "589a455838603fb0465fc21b",
+        "idMemberCreator": "578e03a894d8cfa29d977e3d",
+        "data": {
+          "listAfter": {
+            "name": "в процес",
+            "id": "58923c3d312370b7251103d3"
+          },
+          "listBefore": {
+            "name": "Идеи/Предложения за инициативи",
+            "id": "58923c3b8c1695827294cf13"
+          },
+          "board": {
+            "shortLink": "jxELohPL",
+            "name": ". Организационен .",
+            "id": "58923c2d7c42d76be76cfab5"
+          },
+          "card": {
+            "shortLink": "CAxibImD",
+            "idShort": 5,
+            "name": "mind map за Варналаб 2017",
+            "id": "58923ead0547073ea9108d2b",
+            "idList": "58923c3d312370b7251103d3"
+          },
+          "old": {
+            "idList": "58923c3b8c1695827294cf13"
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T22:08:24.389Z",
+        "memberCreator": {
+          "id": "578e03a894d8cfa29d977e3d",
+          "avatarHash": "2d10c22f148d0585ca6b4dc9823fedde",
+          "fullName": "Orlin Bobchev",
+          "initials": "OB",
+          "username": "orlinbobchev"
+        }
+      },
+      {
+        "id": "589a452e3833b1e2f9614c56",
+        "idMemberCreator": "578e03a894d8cfa29d977e3d",
+        "data": {
+          "list": {
+            "name": "Идеи/Предложения за инициативи",
+            "id": "58923c3b8c1695827294cf13"
+          },
+          "board": {
+            "shortLink": "jxELohPL",
+            "name": ". Организационен .",
+            "id": "58923c2d7c42d76be76cfab5"
+          },
+          "card": {
+            "shortLink": "CAxibImD",
+            "idShort": 5,
+            "name": "mind map за Варналаб 2017",
+            "id": "58923ead0547073ea9108d2b",
+            "desc": "1. Избиране на софтуер за MindMap\n2. Изграждане на основният MindMap (процес)\n"
+          },
+          "old": {
+            "desc": "1. Избиране на софтуер за MindMap\n2. Изграждане на основният MindMap\n"
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T22:07:42.107Z",
+        "memberCreator": {
+          "id": "578e03a894d8cfa29d977e3d",
+          "avatarHash": "2d10c22f148d0585ca6b4dc9823fedde",
+          "fullName": "Orlin Bobchev",
+          "initials": "OB",
+          "username": "orlinbobchev"
+        }
+      },
+      {
+        "id": "589a44eac40ed996e1500523",
+        "idMemberCreator": "578e03a894d8cfa29d977e3d",
+        "data": {
+          "list": {
+            "name": "Идеи/Предложения за инициативи",
+            "id": "58923c3b8c1695827294cf13"
+          },
+          "board": {
+            "shortLink": "jxELohPL",
+            "name": ". Организационен .",
+            "id": "58923c2d7c42d76be76cfab5"
+          },
+          "card": {
+            "shortLink": "CAxibImD",
+            "idShort": 5,
+            "name": "mind map за Варналаб 2017",
+            "id": "58923ead0547073ea9108d2b"
+          },
+          "text": "Аз лично ползвам Xmind, но безплатната версия има много ограничения, някой да знае софтуер за mind map, който позволява live editing от няколко човека ?\n"
+        },
+        "type": "commentCard",
+        "date": "2017-02-07T22:06:34.798Z",
+        "memberCreator": {
+          "id": "578e03a894d8cfa29d977e3d",
+          "avatarHash": "2d10c22f148d0585ca6b4dc9823fedde",
+          "fullName": "Orlin Bobchev",
+          "initials": "OB",
+          "username": "orlinbobchev"
+        }
+      },
+      {
+        "id": "589a3971ac5f5ea1633f34dc",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "list": {
+            "name": "Идеи/Предложения за инициативи",
+            "id": "58923c3b8c1695827294cf13"
+          },
+          "board": {
+            "shortLink": "jxELohPL",
+            "name": ". Организационен .",
+            "id": "58923c2d7c42d76be76cfab5"
+          },
+          "card": {
+            "shortLink": "FmYqhX0A",
+            "idShort": 14,
+            "id": "589a393246b7fc3d81274f57",
+            "name": "дъска: \"Варна Лаб сайт\" - да стане публичен и да има активни хора за администратори"
+          },
+          "old": {
+            "name": "борд: https://trello.com/b/hLeYGu0f/- да стане публичен. и да има активни хора за администратори"
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:17:37.720Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a394a7f8800078a8ac679",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "list": {
+            "name": "Идеи/Предложения за инициативи",
+            "id": "58923c3b8c1695827294cf13"
+          },
+          "board": {
+            "shortLink": "jxELohPL",
+            "name": ". Организационен .",
+            "id": "58923c2d7c42d76be76cfab5"
+          },
+          "card": {
+            "shortLink": "FmYqhX0A",
+            "idShort": 14,
+            "name": "борд: https://trello.com/b/hLeYGu0f/- да стане публичен. и да има активни хора за администратори",
+            "id": "589a393246b7fc3d81274f57",
+            "desc": "https://trello.com/b/hLeYGu0f/"
+          },
+          "old": {
+            "desc": ""
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:16:58.554Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      }
+    ]
+  },
+  {
+    "id": "511e236b9675f83524002c79",
+    "name": "Варна Лаб сайт",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "4ed8c43f946fdf08194f5c04",
+    "invited": false,
+    "pinned": false,
+    "starred": false,
+    "url": "https://trello.com/b/hLeYGu0f/-",
+    "prefs": {
+      "permissionLevel": "public",
+      "voting": "members",
+      "comments": "members",
+      "invitations": "members",
+      "selfJoin": false,
+      "cardCovers": true,
+      "calendarFeedEnabled": false,
+      "background": "blue",
+      "backgroundImage": null,
+      "backgroundImageScaled": null,
+      "backgroundTile": false,
+      "backgroundBrightness": "dark",
+      "backgroundColor": "#0079BF",
+      "canBePublic": true,
+      "canBeOrg": true,
+      "canBePrivate": true,
+      "canInvite": true
+    },
+    "invitations": [],
+    "memberships": [
+      {
+        "id": "511e236b9675f83524002c7d",
+        "idMember": "4ec62f86b475c76d722e68bc",
+        "memberType": "admin",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "511e2a17910adfb4340023f0",
+        "idMember": "4ed732b2076bf700001f8e2f",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "511e2a17e3354a8634002212",
+        "idMember": "4e9eab05ea1b5260300d1bad",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "511e2a18cff51a9c340028a9",
+        "idMember": "4ec632302f81d310ea2f02a8",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "511e2a185f73fefb23002cab",
+        "idMember": "4ed733550befce851e531b73",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "511e2a183f60d8b915000b34",
+        "idMember": "4ec6326864d82676722e00b3",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "511e2a18e745dbf656002ca6",
+        "idMember": "4ed00e016753bfd93c1e0b7e",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "511e2a1894f7501850002d99",
+        "idMember": "4ee8d850353faff104000755",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "511e2a18cff51a9c340028ad",
+        "idMember": "4eda11ea84b4ef420d370a56",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "511e2a18efb35b6424002ed9",
+        "idMember": "4ec638a5f97e30717230ec19",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "511e2a18a459263b2200119d",
+        "idMember": "4ef2142bdcde7fe911242329",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "511e2a183f60d8b915000b38",
+        "idMember": "4f97f3eb694874456c16a669",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "511e2a19fecc908b340023ef",
+        "idMember": "4fabc6a3678a6ce7082e780b",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "511e2a19be6db6fc56002d21",
+        "idMember": "4fbd40137e1931417fc63b65",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "511e2a19069d390b22001034",
+        "idMember": "4f63497a8997dd824c994b79",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "511f6a82839d96ca3f00157f",
+        "idMember": "503ba037e31d725054704180",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51229175d531133209007d5d",
+        "idMember": "50a052831f35c25d1401d5b1",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51b5740b212d1de047005c4f",
+        "idMember": "51b57409212d1de047005c0c",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51bdb0301219f23f300020aa",
+        "idMember": "51bdb0301219f23f3000204e",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51bdd5e3de2f6cbe1e00262a",
+        "idMember": "4f968f9c5247b460343991e6",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51c49d7a559e968f440006c4",
+        "idMember": "51c49d7a559e968f44000668",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "523b3ae7e13e024f640001b1",
+        "idMember": "523b318ad777ad4806005311",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "52602e484b7ed4360d0005df",
+        "idMember": "5228ea83e46e7c0b4f00074a",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "528e56e5963c3d5d3b0085b7",
+        "idMember": "5228941d45bc407712003e6c",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "583730b3eaff07a27b0c5b2c",
+        "idMember": "519b3b0e27e155c108002d31",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "584ed80626cf39541447d1d1",
+        "idMember": "565c7db08cb4bb5167ebda92",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "5899a8b3e2090bfd747ca676",
+        "idMember": "5262ed00a9a7b32b060007e5",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      }
+    ],
+    "shortLink": "hLeYGu0f",
+    "subscribed": false,
+    "labelNames": {
+      "green": "",
+      "yellow": "",
+      "orange": "",
+      "red": "",
+      "purple": "",
+      "blue": "",
+      "sky": "",
+      "lime": "",
+      "pink": "",
+      "black": ""
+    },
+    "powerUps": [
+      "voting"
+    ],
+    "dateLastActivity": "2017-02-08T08:54:34.122Z",
+    "dateLastView": "2017-02-07T23:00:31.547Z",
+    "shortUrl": "https://trello.com/b/hLeYGu0f",
+    "idTags": [],
+    "actions": [
+      {
+        "id": "589a4b678fc86a671dc85050",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "list": {
+            "name": "Инфо",
+            "id": "511e238dcff51a9c340026d2"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "aDKZ4qPr",
+            "idShort": 135,
+            "name": "Линкове към всички социални мрежи",
+            "id": "589a422334938274f21637ac",
+            "pos": 327679
+          },
+          "old": {
+            "pos": 459.99298095703125
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T22:34:15.325Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a4b678fc86a671dc8504f",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "listAfter": {
+            "name": "Инфо",
+            "id": "511e238dcff51a9c340026d2"
+          },
+          "listBefore": {
+            "name": "Инициативи / Идеи",
+            "id": "511e236b9675f83524002c7a"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "aDKZ4qPr",
+            "idShort": 135,
+            "name": "Линкове към всички социални мрежи",
+            "id": "589a422334938274f21637ac",
+            "idList": "511e238dcff51a9c340026d2"
+          },
+          "old": {
+            "idList": "511e236b9675f83524002c7a"
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T22:34:15.304Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a4b359bf7890e73eed352",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "list": {
+            "name": "Инициативи / Идеи",
+            "id": "511e236b9675f83524002c7a"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "ViasD4dd",
+            "idShort": 133,
+            "name": "Добавяне на favicon",
+            "id": "589a3ebaa830fb74ae800399"
+          },
+          "text": "връщам картата, защото не сме добавили резултата от генерираната картинка на самата страница..."
+        },
+        "type": "commentCard",
+        "date": "2017-02-07T22:33:25.073Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a4b088fc86a671dc84c08",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "list": {
+            "name": "Инициативи / Идеи",
+            "id": "511e236b9675f83524002c7a"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "ViasD4dd",
+            "idShort": 133,
+            "name": "Добавяне на favicon",
+            "id": "589a3ebaa830fb74ae800399",
+            "pos": 91.99859619140625
+          },
+          "old": {
+            "pos": 32767.5
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T22:32:40.942Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a4b088fc86a671dc84c07",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "listAfter": {
+            "name": "Инициативи / Идеи",
+            "id": "511e236b9675f83524002c7a"
+          },
+          "listBefore": {
+            "name": "Готово",
+            "id": "58413239d276aaa293ab28e9"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "ViasD4dd",
+            "idShort": 133,
+            "name": "Добавяне на favicon",
+            "id": "589a3ebaa830fb74ae800399",
+            "idList": "511e236b9675f83524002c7a"
+          },
+          "old": {
+            "idList": "58413239d276aaa293ab28e9"
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T22:32:40.902Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a45338ae15b25df967c3d",
+        "idMemberCreator": "50a052831f35c25d1401d5b1",
+        "data": {
+          "list": {
+            "name": "Инициативи / Идеи",
+            "id": "511e236b9675f83524002c7a"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "jQtfibrV",
+            "idShort": 131,
+            "id": "58999f395765b8fd65e18b65",
+            "name": "Линк към чата в сайта"
+          },
+          "old": {
+            "name": "голям дебел линк към чата в сайта"
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T22:07:47.188Z",
+        "memberCreator": {
+          "id": "50a052831f35c25d1401d5b1",
+          "avatarHash": "ff7b6da91236dff7f2a5d2ee92a9a623",
+          "fullName": "Simeon Velichkov",
+          "initials": "SV",
+          "username": "simeonvelichkov"
+        }
+      },
+      {
+        "id": "589a4297ab799328e2c13dda",
+        "idMemberCreator": "5262ed00a9a7b32b060007e5",
+        "data": {
+          "list": {
+            "name": "Инициативи / Идеи",
+            "id": "511e236b9675f83524002c7a"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "jQtfibrV",
+            "idShort": 131,
+            "name": "голям дебел линк към чата в сайта",
+            "id": "58999f395765b8fd65e18b65"
+          },
+          "text": "@simeonvelichkov Симо, това долното можеш да го триеш, създадох отделна карта: https://trello.com/c/aDKZ4qPr"
+        },
+        "type": "commentCard",
+        "date": "2017-02-07T21:56:39.695Z",
+        "memberCreator": {
+          "id": "5262ed00a9a7b32b060007e5",
+          "avatarHash": "08c1ca7c065d983944e003a0c394d311",
+          "fullName": "kaloyan",
+          "initials": "K",
+          "username": "kyordanov"
+        }
+      },
+      {
+        "id": "589a42805b403401faba82e6",
+        "idMemberCreator": "5262ed00a9a7b32b060007e5",
+        "data": {
+          "list": {
+            "name": "Инициативи / Идеи",
+            "id": "511e236b9675f83524002c7a"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "aDKZ4qPr",
+            "idShort": 135,
+            "name": "Линкове към всички социални мрежи",
+            "id": "589a422334938274f21637ac",
+            "pos": 459.99298095703125
+          },
+          "old": {
+            "pos": 1769471
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:56:16.993Z",
+        "memberCreator": {
+          "id": "5262ed00a9a7b32b060007e5",
+          "avatarHash": "08c1ca7c065d983944e003a0c394d311",
+          "fullName": "kaloyan",
+          "initials": "K",
+          "username": "kyordanov"
+        }
+      },
+      {
+        "id": "589a4275ee1c94957a02a44b",
+        "idMemberCreator": "5262ed00a9a7b32b060007e5",
+        "data": {
+          "list": {
+            "name": "Инициативи / Идеи",
+            "id": "511e236b9675f83524002c7a"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "aDKZ4qPr",
+            "idShort": 135,
+            "name": "Линкове към всички социални мрежи",
+            "id": "589a422334938274f21637ac",
+            "desc": "Да са добавят като иконки линкове към всичките социални account-и на лаба в десния sidebar."
+          },
+          "old": {
+            "desc": ""
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:56:05.119Z",
+        "memberCreator": {
+          "id": "5262ed00a9a7b32b060007e5",
+          "avatarHash": "08c1ca7c065d983944e003a0c394d311",
+          "fullName": "kaloyan",
+          "initials": "K",
+          "username": "kyordanov"
+        }
+      },
+      {
+        "id": "589a41b818f128961db5cd64",
+        "idMemberCreator": "5262ed00a9a7b32b060007e5",
+        "data": {
+          "list": {
+            "name": "Инициативи / Идеи",
+            "id": "511e236b9675f83524002c7a"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "cS8JamdA",
+            "idShort": 134,
+            "name": "Да се оправи Google Map-a",
+            "id": "589a4077ddf067fa756430cb",
+            "pos": 551.9915771484375
+          },
+          "old": {
+            "pos": 1769471
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:52:56.307Z",
+        "memberCreator": {
+          "id": "5262ed00a9a7b32b060007e5",
+          "avatarHash": "08c1ca7c065d983944e003a0c394d311",
+          "fullName": "kaloyan",
+          "initials": "K",
+          "username": "kyordanov"
+        }
+      },
+      {
+        "id": "589a4184ed86c90e1cf9dfb1",
+        "idMemberCreator": "5262ed00a9a7b32b060007e5",
+        "data": {
+          "list": {
+            "name": "Инициативи / Идеи",
+            "id": "511e236b9675f83524002c7a"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "cS8JamdA",
+            "idShort": 134,
+            "name": "Да се оправи Google Map-a",
+            "id": "589a4077ddf067fa756430cb",
+            "idAttachmentCover": ""
+          },
+          "old": {
+            "idAttachmentCover": "589a417e901ffe947afe54d6"
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:52:04.035Z",
+        "memberCreator": {
+          "id": "5262ed00a9a7b32b060007e5",
+          "avatarHash": "08c1ca7c065d983944e003a0c394d311",
+          "fullName": "kaloyan",
+          "initials": "K",
+          "username": "kyordanov"
+        }
+      },
+      {
+        "id": "589a417f901ffe947afe54d7",
+        "idMemberCreator": "5262ed00a9a7b32b060007e5",
+        "data": {
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "list": {
+            "name": "Инициативи / Идеи",
+            "id": "511e236b9675f83524002c7a"
+          },
+          "card": {
+            "shortLink": "cS8JamdA",
+            "idShort": 134,
+            "name": "Да се оправи Google Map-a",
+            "id": "589a4077ddf067fa756430cb"
+          },
+          "attachment": {
+            "url": "https://trello-attachments.s3.amazonaws.com/511e236b9675f83524002c79/589a4077ddf067fa756430cb/13269b989c462586035cea3ee34eb7ab/google_maps_error.png",
+            "name": "google_maps_error.png",
+            "id": "589a417e901ffe947afe54d6",
+            "previewUrl": "https://trello-attachments.s3.amazonaws.com/589a4077ddf067fa756430cb/600x366/7a3592040304823a9ce2e5a390231637/google_maps_error.png",
+            "previewUrl2x": "https://trello-attachments.s3.amazonaws.com/589a4077ddf067fa756430cb/840x513/fe820b24ca826250a04b7ed85e27cdf7/google_maps_error.png"
+          }
+        },
+        "type": "addAttachmentToCard",
+        "date": "2017-02-07T21:51:59.247Z",
+        "memberCreator": {
+          "id": "5262ed00a9a7b32b060007e5",
+          "avatarHash": "08c1ca7c065d983944e003a0c394d311",
+          "fullName": "kaloyan",
+          "initials": "K",
+          "username": "kyordanov"
+        }
+      },
+      {
+        "id": "589a412a87d007a4b2ee63d4",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "list": {
+            "name": "Инфо",
+            "id": "511e238dcff51a9c340026d2"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "4rHuyH3V",
+            "idShort": 129,
+            "name": "Лого + Дизайни",
+            "id": "58501118b76f4106a833b840"
+          },
+          "text": "favicons: https://trello.com/c/ViasD4dd"
+        },
+        "type": "commentCard",
+        "date": "2017-02-07T21:50:34.191Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a40e1a3a6a3e1929de9c1",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "list": {
+            "name": "Готово",
+            "id": "58413239d276aaa293ab28e9"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "ViasD4dd",
+            "idShort": 133,
+            "name": "Добавяне на favicon",
+            "id": "589a3ebaa830fb74ae800399",
+            "pos": 32767.5
+          },
+          "old": {
+            "pos": 1212415.25
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:49:21.677Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a40e014d4b972fa3ef409",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "listAfter": {
+            "name": "Готово",
+            "id": "58413239d276aaa293ab28e9"
+          },
+          "listBefore": {
+            "name": "В процес на изработка",
+            "id": "511e236b9675f83524002c7b"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "ViasD4dd",
+            "idShort": 133,
+            "name": "Добавяне на favicon",
+            "id": "589a3ebaa830fb74ae800399",
+            "idList": "58413239d276aaa293ab28e9"
+          },
+          "old": {
+            "idList": "511e236b9675f83524002c7b"
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:49:20.188Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a40d315e5725847a96494",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "dateLastEdited": "2017-02-07T21:53:45.556Z",
+          "textData": {
+            "emoji": {}
+          },
+          "text": "[varnalab-favicon.zip](https://trello-attachments.s3.amazonaws.com/511e236b9675f83524002c79/589a3ebaa830fb74ae800399/f626849c687577aca063e0608db987ea/varnalab-favicon.zip) -  пълен набор с икони + код за вграждане",
+          "card": {
+            "id": "589a3ebaa830fb74ae800399",
+            "name": "Добавяне на favicon",
+            "idShort": 133,
+            "shortLink": "ViasD4dd"
+          },
+          "board": {
+            "id": "511e236b9675f83524002c79",
+            "name": "Варна Лаб сайт",
+            "shortLink": "hLeYGu0f"
+          },
+          "list": {
+            "id": "511e236b9675f83524002c7b",
+            "name": "В процес на изработка"
+          }
+        },
+        "type": "commentCard",
+        "date": "2017-02-07T21:49:07.695Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a40b894a10f1ab00ba4dc",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "list": {
+            "name": "В процес на изработка",
+            "id": "511e236b9675f83524002c7b"
+          },
+          "card": {
+            "shortLink": "ViasD4dd",
+            "idShort": 133,
+            "name": "Добавяне на favicon",
+            "id": "589a3ebaa830fb74ae800399"
+          },
+          "attachment": {
+            "url": "https://trello-attachments.s3.amazonaws.com/511e236b9675f83524002c79/589a3ebaa830fb74ae800399/f626849c687577aca063e0608db987ea/varnalab-favicon.zip",
+            "name": "varnalab-favicon.zip",
+            "id": "589a40b894a10f1ab00ba4db"
+          }
+        },
+        "type": "addAttachmentToCard",
+        "date": "2017-02-07T21:48:40.130Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a40b195c6509ca00428a1",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "board": {
+            "id": "511e236b9675f83524002c79",
+            "name": "Варна Лаб сайт",
+            "shortLink": "hLeYGu0f"
+          },
+          "card": {
+            "id": "589a3ebaa830fb74ae800399",
+            "name": "Добавяне на favicon",
+            "idShort": 133,
+            "shortLink": "ViasD4dd"
+          },
+          "attachment": {
+            "id": "589a40b095c6509ca00428a0",
+            "name": "varnalab-logo1-white.png"
+          }
+        },
+        "type": "addAttachmentToCard",
+        "date": "2017-02-07T21:48:33.014Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a40ac62f97a118a6e5c66",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "list": {
+            "name": "В процес на изработка",
+            "id": "511e236b9675f83524002c7b"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "ViasD4dd",
+            "idShort": 133,
+            "name": "Добавяне на favicon",
+            "id": "589a3ebaa830fb74ae800399"
+          },
+          "text": "генерирана с http://www.favicon-generator.org/"
+        },
+        "type": "commentCard",
+        "date": "2017-02-07T21:48:28.297Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a40908ae15b25df96294b",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "list": {
+            "name": "В процес на изработка",
+            "id": "511e236b9675f83524002c7b"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "ViasD4dd",
+            "idShort": 133,
+            "name": "Добавяне на favicon",
+            "id": "589a3ebaa830fb74ae800399",
+            "pos": 1212415.25
+          },
+          "old": {
+            "pos": 551.9915771484375
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:48:00.782Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a40908ae15b25df96294a",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "listAfter": {
+            "name": "В процес на изработка",
+            "id": "511e236b9675f83524002c7b"
+          },
+          "listBefore": {
+            "name": "Инициативи / Идеи",
+            "id": "511e236b9675f83524002c7a"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "ViasD4dd",
+            "idShort": 133,
+            "name": "Добавяне на favicon",
+            "id": "589a3ebaa830fb74ae800399",
+            "idList": "511e236b9675f83524002c7b"
+          },
+          "old": {
+            "idList": "511e236b9675f83524002c7a"
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:48:00.742Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a4060db9b2a62f2187b3b",
+        "idMemberCreator": "5262ed00a9a7b32b060007e5",
+        "data": {
+          "list": {
+            "name": "Инициативи / Идеи",
+            "id": "511e236b9675f83524002c7a"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "ViasD4dd",
+            "idShort": 133,
+            "name": "Добавяне на favicon",
+            "id": "589a3ebaa830fb74ae800399",
+            "pos": 551.9915771484375
+          },
+          "old": {
+            "pos": 1769471
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:47:12.629Z",
+        "memberCreator": {
+          "id": "5262ed00a9a7b32b060007e5",
+          "avatarHash": "08c1ca7c065d983944e003a0c394d311",
+          "fullName": "kaloyan",
+          "initials": "K",
+          "username": "kyordanov"
+        }
+      },
+      {
+        "id": "589a3f7ee412bbd3b0b72c67",
+        "idMemberCreator": "5262ed00a9a7b32b060007e5",
+        "data": {
+          "list": {
+            "name": "Инициативи / Идеи",
+            "id": "511e236b9675f83524002c7a"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "ViasD4dd",
+            "idShort": 133,
+            "name": "Добавяне на favicon",
+            "id": "589a3ebaa830fb74ae800399",
+            "idAttachmentCover": ""
+          },
+          "old": {
+            "idAttachmentCover": "589a3f65db0d5dd5f23dd1f9"
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:43:26.708Z",
+        "memberCreator": {
+          "id": "5262ed00a9a7b32b060007e5",
+          "avatarHash": "08c1ca7c065d983944e003a0c394d311",
+          "fullName": "kaloyan",
+          "initials": "K",
+          "username": "kyordanov"
+        }
+      },
+      {
+        "id": "589a3f65db0d5dd5f23dd1fa",
+        "idMemberCreator": "5262ed00a9a7b32b060007e5",
+        "data": {
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "list": {
+            "name": "Инициативи / Идеи",
+            "id": "511e236b9675f83524002c7a"
+          },
+          "card": {
+            "shortLink": "ViasD4dd",
+            "idShort": 133,
+            "name": "Добавяне на favicon",
+            "id": "589a3ebaa830fb74ae800399"
+          },
+          "attachment": {
+            "url": "https://trello-attachments.s3.amazonaws.com/511e236b9675f83524002c79/589a3ebaa830fb74ae800399/144bd2a6eaa75c38eb91ab184c75eefd/missing_favicon.png",
+            "name": "missing_favicon.png",
+            "id": "589a3f65db0d5dd5f23dd1f9",
+            "previewUrl": "https://trello-attachments.s3.amazonaws.com/589a3ebaa830fb74ae800399/189x61/4f86ae5a235001d07e8a5fb9d12d020e/missing_favicon.png",
+            "previewUrl2x": "https://trello-attachments.s3.amazonaws.com/589a3ebaa830fb74ae800399/189x61/4f86ae5a235001d07e8a5fb9d12d020e/missing_favicon.png"
+          }
+        },
+        "type": "addAttachmentToCard",
+        "date": "2017-02-07T21:43:01.443Z",
+        "memberCreator": {
+          "id": "5262ed00a9a7b32b060007e5",
+          "avatarHash": "08c1ca7c065d983944e003a0c394d311",
+          "fullName": "kaloyan",
+          "initials": "K",
+          "username": "kyordanov"
+        }
+      },
+      {
+        "id": "589a3f4f698aaea481765e1b",
+        "idMemberCreator": "5262ed00a9a7b32b060007e5",
+        "data": {
+          "list": {
+            "name": "Инициативи / Идеи",
+            "id": "511e236b9675f83524002c7a"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "ViasD4dd",
+            "idShort": 133,
+            "name": "Добавяне на favicon",
+            "id": "589a3ebaa830fb74ae800399",
+            "desc": "Да се добави някакъв favicon, понеже в момента като се отвори сайтът в браузъра и мястото за favicon стои празно..."
+          },
+          "old": {
+            "desc": ""
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:42:39.187Z",
+        "memberCreator": {
+          "id": "5262ed00a9a7b32b060007e5",
+          "avatarHash": "08c1ca7c065d983944e003a0c394d311",
+          "fullName": "kaloyan",
+          "initials": "K",
+          "username": "kyordanov"
+        }
+      },
+      {
+        "id": "589a3afff358cf9fb0bc5390",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "list": {
+            "name": "Инициативи / Идеи",
+            "id": "511e236b9675f83524002c7a"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "RdL3NGdh",
+            "idShort": 94,
+            "name": "смяна на календара с този http://bevacqua.github.io/rome/",
+            "id": "53ccf89d5429f7ad4a6d5bca",
+            "desc": "* http://bevacqua.github.io/rome/"
+          },
+          "old": {
+            "desc": ""
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:24:15.646Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a3a78e97e475ee27e7428",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "list": {
+            "name": "Инициативи / Идеи",
+            "id": "511e236b9675f83524002c7a"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "WEK5D66z",
+            "idShort": 132,
+            "name": "\"Open source\" backup storage",
+            "id": "589a3a01796fdd63b7ebee7b",
+            "pos": 183.9971923828125
+          },
+          "old": {
+            "pos": 655359
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:22:00.009Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a3a77e97e475ee27e7427",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "listAfter": {
+            "name": "Инициативи / Идеи",
+            "id": "511e236b9675f83524002c7a"
+          },
+          "listBefore": {
+            "name": "Инфо",
+            "id": "511e238dcff51a9c340026d2"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "WEK5D66z",
+            "idShort": 132,
+            "name": "\"Open source\" backup storage",
+            "id": "589a3a01796fdd63b7ebee7b",
+            "idList": "511e236b9675f83524002c7a"
+          },
+          "old": {
+            "idList": "511e238dcff51a9c340026d2"
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:21:59.953Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a3a4a73e9238c77619a2a",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "list": {
+            "name": "Инфо",
+            "id": "511e238dcff51a9c340026d2"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "WEK5D66z",
+            "idShort": 132,
+            "name": "\"Open source\" backup storage",
+            "id": "589a3a01796fdd63b7ebee7b",
+            "desc": "да се намери решение, всичките данни от използваните бази данни да бъдат съхранявани в нещо като \"open storage\"."
+          },
+          "old": {
+            "desc": "да се намери решение, всичките данни в базите данни да бъдат съхранявани в нещо като \"open storage\"."
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:21:14.417Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a3a335e6b15b077a2b0d0",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "list": {
+            "name": "Инфо",
+            "id": "511e238dcff51a9c340026d2"
+          },
+          "board": {
+            "shortLink": "hLeYGu0f",
+            "name": "Варна Лаб сайт",
+            "id": "511e236b9675f83524002c79"
+          },
+          "card": {
+            "shortLink": "WEK5D66z",
+            "idShort": 132,
+            "name": "\"Open source\" backup storage",
+            "id": "589a3a01796fdd63b7ebee7b",
+            "desc": "да се намери решение, всичките данни в базите данни да бъдат съхранявани в нещо като \"open storage\"."
+          },
+          "old": {
+            "desc": ""
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:20:51.354Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      }
+    ]
+  },
+  {
+    "id": "584ea47f65788825e3c7afce",
+    "name": "НПО дейности",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "4ed8c43f946fdf08194f5c04",
+    "invited": false,
+    "pinned": false,
+    "starred": false,
+    "url": "https://trello.com/b/cR1GRpfB/-",
+    "prefs": {
+      "permissionLevel": "org",
+      "voting": "disabled",
+      "comments": "members",
+      "invitations": "members",
+      "selfJoin": true,
+      "cardCovers": true,
+      "cardAging": "regular",
+      "calendarFeedEnabled": false,
+      "background": "blue",
+      "backgroundImage": null,
+      "backgroundImageScaled": null,
+      "backgroundTile": false,
+      "backgroundBrightness": "dark",
+      "backgroundColor": "#0079BF",
+      "canBePublic": true,
+      "canBeOrg": true,
+      "canBePrivate": true,
+      "canInvite": true
+    },
+    "invitations": [],
+    "memberships": [
+      {
+        "id": "584ea47f65788825e3c7afcf",
+        "idMember": "4eda11ea84b4ef420d370a56",
+        "memberType": "admin",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "584ed838ea83433f49352a1d",
+        "idMember": "565c7db08cb4bb5167ebda92",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "58766ec0e11efeba7eed7b2a",
+        "idMember": "4ec638a5f97e30717230ec19",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "58766ed4b87536ad8614dd65",
+        "idMember": "4f97f3eb694874456c16a669",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "58944aca0248d9577d7bd23d",
+        "idMember": "5262ed00a9a7b32b060007e5",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      }
+    ],
+    "shortLink": "cR1GRpfB",
+    "subscribed": false,
+    "labelNames": {
+      "green": "",
+      "yellow": "",
+      "orange": "",
+      "red": "",
+      "purple": "",
+      "blue": "",
+      "sky": "",
+      "lime": "",
+      "pink": "",
+      "black": ""
+    },
+    "powerUps": [],
+    "dateLastActivity": "2017-02-07T21:14:28.726Z",
+    "dateLastView": "2017-02-07T21:51:56.772Z",
+    "shortUrl": "https://trello.com/b/cR1GRpfB",
+    "idTags": [],
+    "actions": [
+      {
+        "id": "589a38b44e291bfc63022e21",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "list": {
+            "name": "В прогрес",
+            "id": "585a888895219778c07d3477"
+          },
+          "board": {
+            "shortLink": "cR1GRpfB",
+            "name": "НПО дейности",
+            "id": "584ea47f65788825e3c7afce"
+          },
+          "card": {
+            "shortLink": "85LQnG63",
+            "idShort": 1,
+            "name": "Регистрация на сдружението",
+            "id": "585a88a3ce4a00e5dc421dec",
+            "due": "2017-02-08T10:00:00.000Z"
+          },
+          "old": {
+            "due": null
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:14:28.730Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a38a5a6997aa6e1f170e6",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "list": {
+            "name": "В прогрес",
+            "id": "585a888895219778c07d3477"
+          },
+          "board": {
+            "shortLink": "cR1GRpfB",
+            "name": "НПО дейности",
+            "id": "584ea47f65788825e3c7afce"
+          },
+          "card": {
+            "shortLink": "85LQnG63",
+            "idShort": 1,
+            "name": "Регистрация на сдружението",
+            "id": "585a88a3ce4a00e5dc421dec"
+          },
+          "text": "предадени 200 лв за разходи / не е ясна пълната такса - ще се върне каквото остане /"
+        },
+        "type": "commentCard",
+        "date": "2017-02-07T21:14:13.975Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a380dd4955a42faeb5484",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "listAfter": {
+            "name": "Завършени",
+            "id": "585a888ebf1be0a5f92cc291"
+          },
+          "listBefore": {
+            "name": "В прогрес",
+            "id": "585a888895219778c07d3477"
+          },
+          "board": {
+            "shortLink": "cR1GRpfB",
+            "name": "НПО дейности",
+            "id": "584ea47f65788825e3c7afce"
+          },
+          "card": {
+            "shortLink": "G34lwZmY",
+            "idShort": 3,
+            "name": "Управителен съвет за НПО-то",
+            "id": "584e9aaea6e4e8b8d5982279",
+            "idList": "585a888ebf1be0a5f92cc291"
+          },
+          "old": {
+            "idList": "585a888895219778c07d3477"
+          }
+        },
+        "type": "updateCard",
+        "date": "2017-02-07T21:11:41.579Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a37fc613255b5ae0b489e",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "checkItem": {
+            "state": "complete",
+            "name": "предаване на 3-те документа на адвоката",
+            "id": "58926bc6b2fbca0c8c804844"
+          },
+          "checklist": {
+            "name": "свидетелство за съдимост",
+            "id": "58926b58d127c5d02d3fac2d"
+          },
+          "card": {
+            "shortLink": "G34lwZmY",
+            "idShort": 3,
+            "name": "Управителен съвет за НПО-то",
+            "id": "584e9aaea6e4e8b8d5982279"
+          },
+          "board": {
+            "shortLink": "cR1GRpfB",
+            "name": "НПО дейности",
+            "id": "584ea47f65788825e3c7afce"
+          }
+        },
+        "type": "updateCheckItemStateOnCard",
+        "date": "2017-02-07T21:11:24.479Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a37fbc9278253b26b39da",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "checkItem": {
+            "state": "complete",
+            "name": "Борис",
+            "id": "58926b6cf5ab0899a3efecab"
+          },
+          "checklist": {
+            "name": "свидетелство за съдимост",
+            "id": "58926b58d127c5d02d3fac2d"
+          },
+          "card": {
+            "shortLink": "G34lwZmY",
+            "idShort": 3,
+            "name": "Управителен съвет за НПО-то",
+            "id": "584e9aaea6e4e8b8d5982279"
+          },
+          "board": {
+            "shortLink": "cR1GRpfB",
+            "name": "НПО дейности",
+            "id": "584ea47f65788825e3c7afce"
+          }
+        },
+        "type": "updateCheckItemStateOnCard",
+        "date": "2017-02-07T21:11:23.821Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      },
+      {
+        "id": "589a37fb8732dd52fa967b9b",
+        "idMemberCreator": "4eda11ea84b4ef420d370a56",
+        "data": {
+          "checkItem": {
+            "state": "complete",
+            "name": "Петър",
+            "id": "58926b678366ff262ea0dfc5"
+          },
+          "checklist": {
+            "name": "свидетелство за съдимост",
+            "id": "58926b58d127c5d02d3fac2d"
+          },
+          "card": {
+            "shortLink": "G34lwZmY",
+            "idShort": 3,
+            "name": "Управителен съвет за НПО-то",
+            "id": "584e9aaea6e4e8b8d5982279"
+          },
+          "board": {
+            "shortLink": "cR1GRpfB",
+            "name": "НПО дейности",
+            "id": "584ea47f65788825e3c7afce"
+          }
+        },
+        "type": "updateCheckItemStateOnCard",
+        "date": "2017-02-07T21:11:23.653Z",
+        "memberCreator": {
+          "id": "4eda11ea84b4ef420d370a56",
+          "avatarHash": "0df88620ad5b51b957be0de2b5a8e3b6",
+          "fullName": "Todor Dragnev",
+          "initials": "TD",
+          "username": "t0d0r"
+        }
+      }
+    ]
+  },
+  {
+    "id": "4fa8f3f472ef22e94b2bc222",
+    "name": "Ново място",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "4ed8c43f946fdf08194f5c04",
+    "invited": false,
+    "pinned": false,
+    "starred": false,
+    "url": "https://trello.com/b/ABd0z6a9/-",
+    "prefs": {
+      "permissionLevel": "public",
+      "voting": "public",
+      "comments": "public",
+      "invitations": "members",
+      "selfJoin": true,
+      "cardCovers": true,
+      "calendarFeedEnabled": false,
+      "background": "blue",
+      "backgroundImage": null,
+      "backgroundImageScaled": null,
+      "backgroundTile": false,
+      "backgroundBrightness": "dark",
+      "backgroundColor": "#0079BF",
+      "canBePublic": true,
+      "canBeOrg": true,
+      "canBePrivate": true,
+      "canInvite": true
+    },
+    "invitations": [],
+    "memberships": [
+      {
+        "id": "4fa8f3f472ef22e94b2bc22a",
+        "idMember": "4ec638a5f97e30717230ec19",
+        "memberType": "admin",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "4fa8f53e67f10f4215d75865",
+        "idMember": "4ec62f86b475c76d722e68bc",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51b79749ef8a2b8d3d00a249",
+        "idMember": "4ed732b2076bf700001f8e2f",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51b7974a3318449e580097f5",
+        "idMember": "4e9eab05ea1b5260300d1bad",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51b7974ab4ff8f2d040039bd",
+        "idMember": "4ec632302f81d310ea2f02a8",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51b7974a99a4f27c3500c607",
+        "idMember": "4ec6326864d82676722e00b3",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51b7974b128415975800f10e",
+        "idMember": "4ed733550befce851e531b73",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51b7974c910a3ec35800febf",
+        "idMember": "4ed00e016753bfd93c1e0b7e",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51b7974c4da317f74700993e",
+        "idMember": "4eda11ea84b4ef420d370a56",
+        "memberType": "admin",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51b7974cfce689f51200c009",
+        "idMember": "4ee8d850353faff104000755",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51b7974dcf137e474900b05a",
+        "idMember": "4ef2142bdcde7fe911242329",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51b7974dfce689f51200c00c",
+        "idMember": "4f97f3eb694874456c16a669",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51b7974da02c244d2800bcc2",
+        "idMember": "4fabc6a3678a6ce7082e780b",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51b7974e3c911c776500b1ab",
+        "idMember": "4fbd40137e1931417fc63b65",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51b7974efce689f51200c00f",
+        "idMember": "4f63497a8997dd824c994b79",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51b7974e83b4fd1119006b68",
+        "idMember": "503ba037e31d725054704180",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51b7974ecf137e474900b05d",
+        "idMember": "50a052831f35c25d1401d5b1",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51b7974f110b4e004800f614",
+        "idMember": "4fa14f6429c3a1843f0c5881",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "51b7975060acd3a05800c01e",
+        "idMember": "50eef07fd08fc3e279000e4e",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "53273b49014efa0637b80f1d",
+        "idMember": "51b57409212d1de047005c0c",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "53284849c4e624aa459e261d",
+        "idMember": "5228941d45bc407712003e6c",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "53285091d2a9ab2e7bc0973b",
+        "idMember": "5089628c4088f3471100066b",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "533487701b7a885810077324",
+        "idMember": "4ec6373624396a033d6c5c15",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "583730d208c50386202b1222",
+        "idMember": "519b3b0e27e155c108002d31",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "583827a5511a6bbe3da9e3c0",
+        "idMember": "4fdc3abd0406673a2e297759",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "584ed82bf67ff77f993ec2e4",
+        "idMember": "565c7db08cb4bb5167ebda92",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "58944ac3fb6b6d153679f9c1",
+        "idMember": "5262ed00a9a7b32b060007e5",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      }
+    ],
+    "shortLink": "ABd0z6a9",
+    "subscribed": false,
+    "labelNames": {
+      "green": "",
+      "yellow": "",
+      "orange": "",
+      "red": "",
+      "purple": "",
+      "blue": "",
+      "sky": "",
+      "lime": "",
+      "pink": "",
+      "black": ""
+    },
+    "powerUps": [
+      "voting"
+    ],
+    "dateLastActivity": "2017-02-02T09:33:57.315Z",
+    "dateLastView": "2017-02-07T11:01:53.567Z",
+    "shortUrl": "https://trello.com/b/ABd0z6a9",
+    "idTags": [],
+    "actions": []
+  },
+  {
+    "id": "4ed8c46a0e9f3d0919529560",
+    "name": "Подобрения",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "4ed8c43f946fdf08194f5c04",
+    "invited": false,
+    "pinned": false,
+    "starred": false,
+    "url": "https://trello.com/b/CLdoIh0j/-",
+    "prefs": {
+      "permissionLevel": "public",
+      "voting": "public",
+      "comments": "public",
+      "invitations": "members",
+      "selfJoin": true,
+      "cardCovers": true,
+      "calendarFeedEnabled": false,
+      "background": "blue",
+      "backgroundImage": null,
+      "backgroundImageScaled": null,
+      "backgroundTile": false,
+      "backgroundBrightness": "dark",
+      "backgroundColor": "#0079BF",
+      "canBePublic": true,
+      "canBeOrg": true,
+      "canBePrivate": true,
+      "canInvite": true
+    },
+    "invitations": [],
+    "memberships": [
+      {
+        "id": "4ed8c46a0e9f3d0919529568",
+        "idMember": "4ec62f86b475c76d722e68bc",
+        "memberType": "admin",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "4ed8c71c5c63eb4b7a7e1137",
+        "idMember": "4ed732b2076bf700001f8e2f",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "4ed8c7728f84a6497a6b64a5",
+        "idMember": "4e9eab05ea1b5260300d1bad",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "4ed8c7d59766b55e7a4a760e",
+        "idMember": "4ec632302f81d310ea2f02a8",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "4ed8c84b5693830d194c726d",
+        "idMember": "4ec6326864d82676722e00b3",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "4ed8cf0058d5265caa005edd",
+        "idMember": "4ec638a5f97e30717230ec19",
+        "memberType": "admin",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "4ed8f5876e1b565e790b134a",
+        "idMember": "4ed733550befce851e531b73",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "4ed9f94add38f6a10a36addf",
+        "idMember": "4ed00e016753bfd93c1e0b7e",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "4ee9ff812699b5fb4c54271f",
+        "idMember": "4ee8d850353faff104000755",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "4ef2fa11c69c36c13e1537b3",
+        "idMember": "4ef2142bdcde7fe911242329",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "4f995baf40db29486455200c",
+        "idMember": "4f97f3eb694874456c16a669",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "4fa8f6e4292236f3387346a7",
+        "idMember": "4eda11ea84b4ef420d370a56",
+        "memberType": "admin",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "4fa964042ea76f0341b9e907",
+        "idMember": "4f1d4e6673b85e8e1b0f4531",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "50acb5307f7ce3cb2d006e87",
+        "idMember": "4f63497a8997dd824c994b79",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "53d92bdd7410929ce50fa319",
+        "idMember": "503ba037e31d725054704180",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "53d92be6a5889d2436152f54",
+        "idMember": "4fabc6a3678a6ce7082e780b",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "53d92bebf63e27d02118d04c",
+        "idMember": "50a052831f35c25d1401d5b1",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "53d92beda22d5befe5336801",
+        "idMember": "4fbd40137e1931417fc63b65",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "53d92bee61c76d245235e0b9",
+        "idMember": "4fa14f6429c3a1843f0c5881",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "53d92bee0f1e3e3c7c78bc43",
+        "idMember": "50eef07fd08fc3e279000e4e",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "53d92bf4c143cfa7dd8ba06a",
+        "idMember": "5228941d45bc407712003e6c",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "5837318b3a871ec21495d164",
+        "idMember": "519b3b0e27e155c108002d31",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "584ed85605e6d17081271058",
+        "idMember": "565c7db08cb4bb5167ebda92",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "58944b04706b592cff760eaa",
+        "idMember": "5262ed00a9a7b32b060007e5",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      }
+    ],
+    "shortLink": "CLdoIh0j",
+    "subscribed": false,
+    "labelNames": {
+      "green": "",
+      "yellow": "",
+      "orange": "",
+      "red": "",
+      "purple": "",
+      "blue": "",
+      "sky": "",
+      "lime": "",
+      "pink": "",
+      "black": ""
+    },
+    "powerUps": [
+      "voting"
+    ],
+    "dateLastActivity": "2017-02-01T18:38:57.839Z",
+    "dateLastView": "2017-02-07T11:01:11.494Z",
+    "shortUrl": "https://trello.com/b/CLdoIh0j",
+    "idTags": [],
+    "actions": []
+  },
+  {
+    "id": "586b8daf97492cd458aac458",
+    "name": "Проекти",
+    "desc": "",
+    "descData": null,
+    "closed": false,
+    "idOrganization": "4ed8c43f946fdf08194f5c04",
+    "invited": false,
+    "pinned": false,
+    "starred": false,
+    "url": "https://trello.com/b/vkCjGCiJ/-",
+    "prefs": {
+      "permissionLevel": "public",
+      "voting": "disabled",
+      "comments": "members",
+      "invitations": "members",
+      "selfJoin": true,
+      "cardCovers": true,
+      "cardAging": "regular",
+      "calendarFeedEnabled": false,
+      "background": "blue",
+      "backgroundImage": null,
+      "backgroundImageScaled": null,
+      "backgroundTile": false,
+      "backgroundBrightness": "dark",
+      "backgroundColor": "#0079BF",
+      "canBePublic": true,
+      "canBeOrg": true,
+      "canBePrivate": true,
+      "canInvite": true
+    },
+    "invitations": [],
+    "memberships": [
+      {
+        "id": "586b8daf97492cd458aac459",
+        "idMember": "4eda11ea84b4ef420d370a56",
+        "memberType": "admin",
+        "unconfirmed": false,
+        "deactivated": false
+      },
+      {
+        "id": "586e8897c09b4c1db01ddd63",
+        "idMember": "565c7db08cb4bb5167ebda92",
+        "memberType": "normal",
+        "unconfirmed": false,
+        "deactivated": false
+      }
+    ],
+    "shortLink": "vkCjGCiJ",
+    "subscribed": false,
+    "labelNames": {
+      "green": "",
+      "yellow": "",
+      "orange": "",
+      "red": "",
+      "purple": "",
+      "blue": "Varna 2017",
+      "sky": "\"Училище Варна\"",
+      "lime": "",
+      "pink": "",
+      "black": ""
+    },
+    "powerUps": [],
+    "dateLastActivity": "2017-01-03T11:56:51.329Z",
+    "dateLastView": "2017-02-07T11:07:11.432Z",
+    "shortUrl": "https://trello.com/b/vkCjGCiJ",
+    "idTags": [],
+    "actions": []
+  }
+]
