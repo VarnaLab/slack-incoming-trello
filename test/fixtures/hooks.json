@@ -1,0 +1,40 @@
+{
+  "one": {
+    "hook": "hook1",
+    "username": "user1",
+    "icon_url": "icon1",
+    "channel": "#channel1"
+  },
+  "two": {
+    "hook": [
+      "hook1",
+      "hook2"
+    ]
+  },
+  "three": {
+    "hook": [
+      "hook1",
+      "hook2"
+    ],
+    "username": "user1",
+    "icon_url": "icon1",
+    "channel": "#channel1"
+  },
+  "four": [
+    {
+      "hook": "hook1",
+      "username": "user1",
+      "icon_url": "icon1",
+      "channel": "#channel1"
+    },
+    {
+      "hook": [
+        "hook2",
+        "hook3"
+      ],
+      "username": "user2",
+      "icon_url": "icon2",
+      "channel": "#channel2"
+    }
+  ]
+}
