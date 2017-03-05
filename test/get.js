@@ -1,15 +1,18 @@
 
 var t = require('assert')
 var http = require('http')
+var request = require('@request/client')
+var purest = require('purest')({request, promise: Promise})
 var hook = require('../')
 
 
 describe('get', () => {
-  var server
+  var server, trello
 
   before((done) => {
-    hook.init({
-      purest: {
+    trello = purest({
+      provider: 'trello',
+      config: {
         trello: {
           'http://localhost:3000': {
             '{endpoint}': {
@@ -30,7 +33,7 @@ describe('get', () => {
   })
 
   it('get', (done) => {
-    hook.get()
+    hook.get(trello, 'id')
       .then((attachments) => {
         t.deepEqual(attachments, require('./fixtures/attachments'))
         done()

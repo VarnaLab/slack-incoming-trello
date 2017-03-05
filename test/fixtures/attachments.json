@@ -1,6 +1,6 @@
 [
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/jxELohPL|. Организационен .> ➤ Идеи/Предложения за инициативи ➤ <https://trello.com/c/FmYqhX0A|борд: https://trello.com/b/hLeYGu0f/- да стане публичен. и да има активни хора за администратори>*",
     "author_name": "Todor Dragnev",
@@ -17,7 +17,7 @@
     ]
   },
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/jxELohPL|. Организационен .> ➤ Идеи/Предложения за инициативи ➤ <https://trello.com/c/CAxibImD|mind map за Варналаб 2017>*",
     "author_name": "Orlin Bobchev",
@@ -34,7 +34,7 @@
     ]
   },
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/jxELohPL|. Организационен .> ➤ в процес ➤ <https://trello.com/c/CAxibImD|mind map за Варналаб 2017>*",
     "author_name": "Orlin Bobchev",
@@ -51,7 +51,7 @@
     ]
   },
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ Инфо ➤ <https://trello.com/c/WEK5D66z|\"Open source\" backup storage>*",
     "author_name": "Todor Dragnev",
@@ -68,7 +68,7 @@
     ]
   },
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ Инициативи / Идеи ➤ <https://trello.com/c/RdL3NGdh|смяна на календара с този http://bevacqua.github.io/rome/>*",
     "author_name": "Todor Dragnev",
@@ -85,7 +85,7 @@
     ]
   },
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ Инициативи / Идеи ➤ <https://trello.com/c/ViasD4dd|Добавяне на favicon>*",
     "author_name": "kaloyan",
@@ -102,7 +102,7 @@
     ]
   },
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ Инициативи / Идеи ➤ <https://trello.com/c/ViasD4dd|Добавяне на favicon>*",
     "author_name": "kaloyan",
@@ -119,7 +119,7 @@
     ]
   },
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ В процес на изработка ➤ <https://trello.com/c/ViasD4dd|Добавяне на favicon>*",
     "author_name": "Todor Dragnev",
@@ -136,7 +136,7 @@
     ]
   },
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ <https://trello.com/c/ViasD4dd|Добавяне на favicon>*",
     "author_name": "Todor Dragnev",
@@ -153,7 +153,7 @@
     ]
   },
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ В процес на изработка ➤ <https://trello.com/c/ViasD4dd|Добавяне на favicon>*",
     "author_name": "Todor Dragnev",
@@ -170,7 +170,7 @@
     ]
   },
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ В процес на изработка ➤ <https://trello.com/c/ViasD4dd|Добавяне на favicon>*",
     "author_name": "Todor Dragnev",
@@ -187,7 +187,7 @@
     ]
   },
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ Инфо ➤ <https://trello.com/c/4rHuyH3V|Лого + Дизайни>*",
     "author_name": "Todor Dragnev",
@@ -204,7 +204,7 @@
     ]
   },
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ Инициативи / Идеи ➤ <https://trello.com/c/cS8JamdA|Да се оправи Google Map-a>*",
     "author_name": "kaloyan",
@@ -221,7 +221,7 @@
     ]
   },
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ Инициативи / Идеи ➤ <https://trello.com/c/aDKZ4qPr|Линкове към всички социални мрежи>*",
     "author_name": "kaloyan",
@@ -238,7 +238,7 @@
     ]
   },
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ Инициативи / Идеи ➤ <https://trello.com/c/jQtfibrV|голям дебел линк към чата в сайта>*",
     "author_name": "kaloyan",
@@ -255,7 +255,7 @@
     ]
   },
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/hLeYGu0f|Варна Лаб сайт> ➤ Инициативи / Идеи ➤ <https://trello.com/c/ViasD4dd|Добавяне на favicon>*",
     "author_name": "Todor Dragnev",
@@ -272,13 +272,13 @@
     ]
   },
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/cR1GRpfB|НПО дейности> ➤ <https://trello.com/c/G34lwZmY|Управителен съвет за НПО-то>*",
     "author_name": "Todor Dragnev",
     "author_link": "https://trello.com/t0d0r",
     "author_icon": "https://trello-avatars.s3.amazonaws.com/0df88620ad5b51b957be0de2b5a8e3b6/170.png",
-    "text": ":ballot_box_with_check: свидетелство за съдимост - Петър",
+    "text": "_complete_ - свидетелство за съдимост - Петър",
     "image_url": false,
     "footer": "updateCheckItemStateOnCard",
     "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
@@ -289,13 +289,13 @@
     ]
   },
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/cR1GRpfB|НПО дейности> ➤ <https://trello.com/c/G34lwZmY|Управителен съвет за НПО-то>*",
     "author_name": "Todor Dragnev",
     "author_link": "https://trello.com/t0d0r",
     "author_icon": "https://trello-avatars.s3.amazonaws.com/0df88620ad5b51b957be0de2b5a8e3b6/170.png",
-    "text": ":ballot_box_with_check: свидетелство за съдимост - Борис",
+    "text": "_complete_ - свидетелство за съдимост - Борис",
     "image_url": false,
     "footer": "updateCheckItemStateOnCard",
     "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
@@ -306,13 +306,13 @@
     ]
   },
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/cR1GRpfB|НПО дейности> ➤ <https://trello.com/c/G34lwZmY|Управителен съвет за НПО-то>*",
     "author_name": "Todor Dragnev",
     "author_link": "https://trello.com/t0d0r",
     "author_icon": "https://trello-avatars.s3.amazonaws.com/0df88620ad5b51b957be0de2b5a8e3b6/170.png",
-    "text": ":ballot_box_with_check: свидетелство за съдимост - предаване на 3-те документа на адвоката",
+    "text": "_complete_ - свидетелство за съдимост - предаване на 3-те документа на адвоката",
     "image_url": false,
     "footer": "updateCheckItemStateOnCard",
     "footer_icon": "https://s3-us-west-2.amazonaws.com/slack-files2/avatars/2016-05-18/44042585718_0e6a837d5b63fd1cfc07_96.png",
@@ -323,7 +323,7 @@
     ]
   },
   {
-    "fallback": "Incoming WebHook Error!",
+    "fallback": "Trello Board Activity!",
     "color": "#0089d9",
     "pretext": "* ➤ <https://trello.com/b/cR1GRpfB|НПО дейности> ➤ В прогрес ➤ <https://trello.com/c/85LQnG63|Регистрация на сдружението>*",
     "author_name": "Todor Dragnev",
