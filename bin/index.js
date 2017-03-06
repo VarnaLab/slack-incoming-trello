@@ -12,15 +12,14 @@ if (argv.help) {
 
 ;['config', 'db', 'filter'].forEach((key) => {
   if (!argv[key]) {
-    console.error(`Specify --${key} file`)
+    console.error(`Specify --${key} path/to/file.json`)
     process.exit()
   }
 })
 
 
 var path = require('path')
-var request = require('@request/client')
-var purest = require('purest')({request, promise: Promise})
+
 
 var env = process.env.NODE_ENV || argv.env || 'development'
 
@@ -29,24 +28,12 @@ var config = require(path.resolve(process.cwd(), argv.config))[env]
 var dbpath = path.resolve(process.cwd(), argv.db)
 var db = require(dbpath)
 
-var trello = purest({
-  provider: 'trello',
-  config: require('../config/purest'),
-  defaults: {
-    qs: Object.assign(
-      {key: config.trello.app.key, token: config.trello.user.token},
-      ((filter = require(path.resolve(process.cwd(), argv.filter))) => (
-        filter.actions_since = db[env].timestamp,
-        filter
-      ))()
-    )
-  }
-})
+var filter = require(path.resolve(process.cwd(), argv.filter))
 
 
 var hook = require('../')
 
-hook({env, config, trello, db, dbpath})
+hook({env, config, db, dbpath, filter})
   .then((responses) => {
     responses.forEach(([res, body]) => {
       console.log(new Date().toString(), res.statusCode, body)
