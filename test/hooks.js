@@ -59,7 +59,7 @@ describe('hooks config', () => {
   it('four', () => {
     t.deepEqual(
       hook.hooks(config.four), [
-      {
+        {
           hook: 'hook1',
           username: 'user1',
           icon_url: 'icon1',
