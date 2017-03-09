@@ -3,7 +3,7 @@
 var argv = require('minimist')(process.argv.slice(2))
 
 if (argv.help) {
-  console.log('--env development|staging|production')
+  console.log('--env environment')
   console.log('--config path/to/config.json')
   console.log('--db path/to/db.json')
   console.log('--filter path/to/filter.json')
@@ -12,7 +12,7 @@ if (argv.help) {
 
 ;['config', 'db', 'filter'].forEach((key) => {
   if (!argv[key]) {
-    console.error(`Specify --${key} path/to/file.json`)
+    console.error(`Specify --${key} path/to/config.json`)
     process.exit()
   }
 })
