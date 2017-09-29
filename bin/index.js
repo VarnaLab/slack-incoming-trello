@@ -17,12 +17,9 @@ if (argv.help) {
   }
 })
 
-
-var path = require('path')
-
-
 var env = process.env.NODE_ENV || argv.env || 'development'
 
+var path = require('path')
 var config = require(path.resolve(process.cwd(), argv.config))[env]
 
 var dbpath = path.resolve(process.cwd(), argv.db)
@@ -33,16 +30,15 @@ var filter = require(path.resolve(process.cwd(), argv.filter))
 
 var hook = require('../')
 
-hook({env, config, db, dbpath, filter})
-  .then((responses) => {
-    responses.forEach(([res, body]) => {
-      console.log(new Date().toString(), res.statusCode, body)
-    })
-  })
-  .catch((err) => console.error(new Date().toString(), err))
+var log = (res, body) => [
+  new Date().toString(),
+  res.statusCode,
+  res.statusMessage,
+  typeof body === 'object' ? JSON.stringify(body) : body
+].join(' ')
 
-// test single attachment
-// hook.post(
-//   hook.hooks(config.slack),
-//   [hook.attachment(require('/home/s/slack/_config/incoming-trello/fixture'))]
-// )
+hook({db, env, dbpath, config, filter})
+  .then((responses) => {
+    responses.forEach(([res, body]) => console.log(log(res, body)))
+  })
+  .catch((err) => console.error(err))

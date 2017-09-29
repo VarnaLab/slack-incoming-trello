@@ -37,7 +37,7 @@ describe('get', () => {
   })
 
   it('get', (done) => {
-    hook.get(trello, 'id')
+    hook.get({api: trello, id: 'id'})
       .then((attachments) => {
         t.deepEqual(attachments, fixtures.attachments)
         done()
