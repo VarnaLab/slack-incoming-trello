@@ -3,16 +3,20 @@
 var argv = require('minimist')(process.argv.slice(2))
 
 if (argv.help) {
-  console.log('--env environment')
-  console.log('--config path/to/config.json')
-  console.log('--db path/to/db.json')
-  console.log('--filter path/to/filter.json')
+  console.log(`
+    --auth /path/to/auth.json
+    --slack /path/to/slack.json
+    --fields /path/to/fields.json
+    --target /path/to/target.json
+    --purest /path/to/purest.json
+    --env environment
+  `)
   process.exit()
 }
 
-;['config', 'db', 'filter'].forEach((key) => {
-  if (!argv[key]) {
-    console.error(`Specify --${key} path/to/config.json`)
+;['auth', 'slack', 'fields', 'target'].forEach((file) => {
+  if (!argv[file]) {
+    console.error(`Specify --${file} /path/to/${file}.json`)
     process.exit()
   }
 })
@@ -20,25 +24,29 @@ if (argv.help) {
 var env = process.env.NODE_ENV || argv.env || 'development'
 
 var path = require('path')
-var config = require(path.resolve(process.cwd(), argv.config))[env]
 
-var dbpath = path.resolve(process.cwd(), argv.db)
-var db = require(dbpath)
+var fpath = {
+  auth: path.resolve(process.cwd(), argv.auth),
+  slack: path.resolve(process.cwd(), argv.slack),
+  fields: path.resolve(process.cwd(), argv.fields),
+  target: path.resolve(process.cwd(), argv.target),
+  purest: argv.purest
+    ? path.resolve(process.cwd(), argv.purest)
+    : path.resolve(__dirname, '../config/purest.json')
+}
 
-var filter = require(path.resolve(process.cwd(), argv.filter))
+var config = {
+  fpath,
+  env,
+  auth: require(fpath.auth)[env],
+  slack: require(fpath.slack)[env],
+  fields: require(fpath.fields)[env],
+  target: require(fpath.target)[env],
+  purest: require(fpath.purest),
+}
 
+var log = require('../lib/log')()
 
-var hook = require('../')
-
-var log = (res, body) => [
-  new Date().toString(),
-  res.statusCode,
-  res.statusMessage,
-  typeof body === 'object' ? JSON.stringify(body) : body
-].join(' ')
-
-hook({db, env, dbpath, config, filter})
-  .then((responses) => {
-    responses.forEach(([res, body]) => console.log(log(res, body)))
-  })
+require('../')(config)
+  .then((result) => result !== 'noop' && console.log(log.success('OK')))
   .catch((err) => console.error(err))

@@ -19,6 +19,7 @@
     "purest": "^3.1.0"
   },
   "devDependencies": {
+    "@request/log": "^0.1.0",
     "istanbul": "^0.4.5",
     "mocha": "^3.2.0"
   },
