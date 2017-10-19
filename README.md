@@ -4,151 +4,94 @@
 Slack Incoming WebHook for Trello
 
 
-# Install
-
-```bash
-npm install -g slack-incoming-trello
-```
-
-
 # CLI
 
 ```bash
-slack-incoming-trello \
-  --config /path/to/config.json \
-  --db /path/to/db.json \
-  --filter /path/to/filter.json \
-  --env environment
+node slack-incoming-trello/bin/ \
+  --auth auth.json \
+  --slack slack.json \
+  --fields fields.json \
+  --target target.json \
+  --env development
 ```
 
 
-# config.json
+# auth.json
 
 ```json
 {
   "development": {
     "trello": {
-      "id": "[Organization Screen Name]",
       "app": {
-        "key": "[OAuth Consumer Key]",
-        "secret": "[OAuth Consumer Secret]"
+        "key": "",
+        "secret": ""
       },
       "user": {
-        "token": "[OAuth Access Token]",
-        "secret": "[OAuth Access Secret]"
+        "token": "",
+        "secret": ""
       }
-    },
-    "slack": { "see below" }
+    }
   }
+}
+```
+
+
+# slack.json
+
+```json
+{
+  "development": [
+    {
+      "url": "https://hooks.slack.com/...",
+      "username": "",
+      "icon_url": "",
+      "channel": "#general"
+    },
+    {
+      "url": "https://hooks.slack.com/...",
+      "username": "",
+      "icon_url": "",
+      "channel": "@slackbot"
+    }
+  ]
 }
 ```
 
 The `username`, `icon_url` and `channel` keys are optional and take effect only if the hook is a *Custom Integration*. These 3 keys have no effect for bundled *OAuth Apps*.
 
-> Single hook:
+
+# fields.json
 
 ```json
-"slack": {
-  "hook": "[Hook URL]",
-  "username": "[App Name]",
-  "icon_url": "[App Avatar]",
-  "channel": "[Target #channel or @user]"
-}
-```
-
-> Multiple hooks with a common `username`, `icon_url` and `channel` configuration:
-
-```json
-"slack": {
-  "hook": [
-    "[Hook URL 1]",
-    "[Hook URL 2]"
-  ],
-  "username": "[App Name]",
-  "icon_url": "[App Avatar]",
-  "channel": "[Target #channel or @user]"
-}
-```
-
-> Multiple hooks with separate `username`, `icon_url` and `channel` configuration:
-
-```json
-"slack": [
-  {
-    "hook": "[Hook URL 1]",
-    "username": "[App Name]",
-    "icon_url": "[App Avatar]",
-    "channel": "[Target #channel or @user]"
-  },
-  {
-    "hook": [
-      "[Hook URL 2]",
-      "[Hook URL 3]"
-    ],
-    "username": "[App Name]",
-    "icon_url": "[App Avatar]",
-    "channel": "[Target #channel or @user]"
-  }
-]
-```
-
-
-# db.json
-
-```js
 {
   "development": {
-    "timestamp": 0
-  },
-  "production": {
-    "timestamp": 0
+    "board": {
+      "filter": "open"
+    },
+    "action": {
+      "filter": [
+        "addAttachmentToCard",
+        "commentCard",
+        "updateBoard",
+        "updateCard",
+        "updateCheckItemStateOnCard",
+        "updateList"
+      ],
+      "since": 0
+    }
   }
 }
 ```
 
 
-# filter.json
+# target.json
 
-```js
+```json
 {
-  "filter": "open",
-  "actions": [
-    "addAttachmentToCard",
-    "commentCard",
-    "updateBoard",
-    "updateCard",
-    "updateCheckItemStateOnCard",
-    "updateList"
-  ],
-  "actions_since": 0
+  "development": {
+    "org": {
+      "id": "[ID]"
+    }
+  }
 }
-```
-
-
-# Crontab
-
-```bash
-# Run on every 15 min:
-*/15 * * * * node slack-incoming-trello [params] >> slack-incoming-trello.log
-```
-
-
-# API
-
-```js
-var hook = require('slack-incoming-trello')
-
-hook({
-  config: require('config.json'),
-  db: require('db.json'),
-  dpath: '/absolute/path/to/db.json',
-  filter: require('filter.json'),
-  env: 'development'
-})
-.then((responses) => {
-  responses.forEach(([res, body]) => {
-    console.log(new Date().toString(), res.statusCode, body)
-  })
-})
-.catch((err) => console.error(new Date().toString(), err))
 ```
